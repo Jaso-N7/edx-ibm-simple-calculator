@@ -18,3 +18,7 @@ h1{
     border-radius: 25px;
     align-self: center;
 }
+
+.row {
+    margin: 2% 1% 2% 1%; 
+}
