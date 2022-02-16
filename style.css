@@ -2,10 +2,12 @@ body {
     background-color:black;
     font-family: Helvetica, Arial, sans-serif;
     color: white;
+    font-size: 15px;
 }
 h1{
     color:grey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 125%;
 }
 
 .maindiv{
