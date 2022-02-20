@@ -5,3 +5,6 @@ This app titled Simple Interest Calculator, will compute the interest one can ea
 
 ## Introduction
 The final project from IBM Introduction to Cloud Development with HTML, CSS, and JS (CAD101EN)
+
+## Demo
+https://jaso-n7.github.io/edx-ibm-simple-calculator/
